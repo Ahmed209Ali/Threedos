@@ -877,12 +877,16 @@ body {
         height: 100vh;
         background-attachment: fixed;
         background-image: url(../img/bbbbbb.jpg);
+        background-size: cover;
 
     }
 
     .home2 {
         display: flex;
-
+       
+        height: auto;
+        background-image: url(../img/background.jpg);
+        background-size: cover;
 
     }
 
@@ -898,7 +902,7 @@ body {
 
     .home2 .all2 {
         text-align: center;
-        width: 40%;
+        width: 20%;
 
     }
 
